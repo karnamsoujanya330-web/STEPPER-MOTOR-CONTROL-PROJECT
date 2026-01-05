@@ -1,0 +1,1 @@
+Simulation of the stepper motor control system was performed using software-based simulation tools to verify speed and direction control.
